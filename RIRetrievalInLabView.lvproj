@@ -364,7 +364,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">weizmann</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">RI Retrieval in Labview</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">22</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">23</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">RI Retrieval in Labview</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2013 weizmann</Property>
