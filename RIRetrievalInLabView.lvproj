@@ -191,7 +191,6 @@
 				<Item Name="Merge Queries (channel).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/lvStorage.llb/Merge Queries (channel).vi"/>
 				<Item Name="Merge Queries.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/lvStorage.llb/Merge Queries.vi"/>
 				<Item Name="NI_3D Picture Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/picture/3D Picture Control/NI_3D Picture Control.lvlib"/>
-				<Item Name="NI_AAL_Geometry.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AAL_Geometry.lvlib"/>
 				<Item Name="NI_AAL_SigProc.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AAL_SigProc.lvlib"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
@@ -223,9 +222,6 @@
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
-				<Item Name="TRef Traverse for References.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse for References.vi"/>
-				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
-				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
 				<Item Name="usiDataType.ctl" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_EditUserDefinedProperties/usiDataType.ctl"/>
@@ -233,7 +229,6 @@
 				<Item Name="usiPropDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/Storage.llb/usiPropDef.ctl"/>
 				<Item Name="usiTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/Storage.llb/usiTypeDef.ctl"/>
 				<Item Name="Version To Dotted String.vi" Type="VI" URL="/&lt;vilib&gt;/_xctls/Version To Dotted String.vi"/>
-				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 				<Item Name="Write To Spreadsheet File (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (DBL).vi"/>
@@ -256,7 +251,6 @@
 			<Item Name="FindMinimumChiSquaredFast.vi" Type="VI" URL="../FindMinimumChiSquaredFast.vi"/>
 			<Item Name="FindMinimumChiSquaredLMethod.vi" Type="VI" URL="../FindMinimumChiSquaredLMethod.vi"/>
 			<Item Name="GetRunTimeEnginePath.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/Utility/GetRunTimeEnginePath.vi"/>
-			<Item Name="Handle1D2PlotObject1D.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_PlotObject/Functions/Conversion/Handle1D2PlotObject1D.vi"/>
 			<Item Name="IM_msg.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/common/IM_msg.ctl"/>
 			<Item Name="IM_refnum_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/common/IM_refnum_cluster.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
@@ -284,8 +278,6 @@
 			<Item Name="MC_GlobalManager_Actions.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalManager/MC_GlobalManager_Actions.ctl"/>
 			<Item Name="MC_LocalVariableDefStatement_Display.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/LocalVariableDefStatement/MC_LocalVariableDefStatement_Display.vi"/>
 			<Item Name="MC_ManageDisplayBuffers.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/DisplayManager/MC_ManageDisplayBuffers.vi"/>
-			<Item Name="MC_PlotStatuslManager.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/PlotStatusManager/MC_PlotStatuslManager.vi"/>
-			<Item Name="MC_PlotStatuslManager_Actions.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/PlotStatusManager/MC_PlotStatuslManager_Actions.ctl"/>
 			<Item Name="MC_PlugInDisplayVIType.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/PlugInManager/MC_PlugInDisplayVIType.ctl"/>
 			<Item Name="MC_PlugInFolderPath.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/PlugInManager/MC_PlugInFolderPath.vi"/>
 			<Item Name="MC_Range_Check_Step_Iter.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/RangeToken/MC_Range_Check_Step_Iter.vi"/>
@@ -298,11 +290,6 @@
 			<Item Name="MC_UIManager.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/UIManager/MC_UIManager.vi"/>
 			<Item Name="MC_UIManager_Actions.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/UIManager/MC_UIManager_Actions.ctl"/>
 			<Item Name="mie2.dll" Type="Document" URL="../mie2.dll"/>
-			<Item Name="MPH_Handle.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_PlotObject/MC_Plot_Handle.llb/MPH_Handle.ctl"/>
-			<Item Name="MPH_HandleInfo.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_PlotObject/MC_Plot_Handle.llb/MPH_HandleInfo.ctl"/>
-			<Item Name="MPH_HandleType.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_PlotObject/MC_Plot_Handle.llb/MPH_HandleType.ctl"/>
-			<Item Name="MPH_Parse_Handle.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_PlotObject/MC_Plot_Handle.llb/MPH_Parse_Handle.vi"/>
-			<Item Name="MPH_RefType.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_PlotObject/MC_Plot_Handle.llb/MPH_RefType.ctl"/>
 			<Item Name="native norm.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/native norm.vi"/>
 			<Item Name="NIMS M($,S).vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/IndexRead/NIMS M($,S).vi"/>
 			<Item Name="NIMS M($,S)_3E5749BBB62E49528D4765A77F1F6D98_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS M($,S)_3E5749BBB62E49528D4765A77F1F6D98.lvgen/NIMS M($,S)_3E5749BBB62E49528D4765A77F1F6D98_000.vi"/>
@@ -340,11 +327,6 @@
 			<Item Name="NIMS_Compare Dims_365A0B0F346846A881A0C2258FB2AD96_005.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_Compare Dims_365A0B0F346846A881A0C2258FB2AD96.lvgen/NIMS_Compare Dims_365A0B0F346846A881A0C2258FB2AD96_005.vi"/>
 			<Item Name="NIMS_Complex Is Real.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeSupport/NIMS_Complex Is Real.vi"/>
 			<Item Name="NIMS_Complex Is Real_722E58A242B44362B4BD93C5F83B22D8_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_Complex Is Real_722E58A242B44362B4BD93C5F83B22D8.lvgen/NIMS_Complex Is Real_722E58A242B44362B4BD93C5F83B22D8_001.vi"/>
-			<Item Name="NIMS_contour(V, V).vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctions/contour/NIMS_contour(V, V).vi"/>
-			<Item Name="NIMS_contour_Decide Color.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctions/contour/NIMS_contour_Decide Color.vi"/>
-			<Item Name="NIMS_contour_plot.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctions/contour/NIMS_contour_plot.vi"/>
-			<Item Name="NIMS_contours_Implementation.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctions/contours/NIMS_contours_Implementation.vi"/>
-			<Item Name="NIMS_contours_Prepare Data.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctions/contours/NIMS_contours_Prepare Data.vi"/>
 			<Item Name="NIMS_Create Error From Enums.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/ErrorHandling/NIMS_Create Error From Enums.vi"/>
 			<Item Name="NIMS_Error From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/ErrorHandling/NIMS_Error From Error Code.vi"/>
 			<Item Name="NIMS_Error if Not Equal.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeSupport/NIMS_Error if Not Equal.vi"/>
@@ -402,66 +384,6 @@
 			<Item Name="NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B_002.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B.lvgen/NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B_002.vi"/>
 			<Item Name="NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B_005.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B.lvgen/NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B_005.vi"/>
 			<Item Name="NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B_010.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B.lvgen/NIMS_NodeEndStatement_Output_53EC0D466D134D7ABD903AC30B43404B_010.vi"/>
-			<Item Name="NIMS_Open VI Object Reference.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/Utility/NIMS_Open VI Object Reference.vi"/>
-			<Item Name="NIMS_plots_axis option implementation equal.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_axis option implementation equal.vi"/>
-			<Item Name="NIMS_plots_axis option implementation square.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_axis option implementation square.vi"/>
-			<Item Name="NIMS_plots_axis option implementation.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_axis option implementation.vi"/>
-			<Item Name="NIMS_plots_axis option.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_axis option.ctl"/>
-			<Item Name="NIMS_plots_decoration.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_decoration.ctl"/>
-			<Item Name="NIMS_plots_decoration_get placeholder.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_decoration_get placeholder.vi"/>
-			<Item Name="NIMS_plots_decoration_get value.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_decoration_get value.vi"/>
-			<Item Name="NIMS_plots_decoration_position.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_decoration_position.vi"/>
-			<Item Name="NIMS_plots_decoration_remove.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_decoration_remove.vi"/>
-			<Item Name="NIMS_plots_decoration_reposition all.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_decoration_reposition all.vi"/>
-			<Item Name="NIMS_plots_generate_plot_window.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_generate_plot_window.vi"/>
-			<Item Name="NIMS_plots_generate_plot_window_main.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_generate_plot_window_main.vi"/>
-			<Item Name="NIMS_plots_Global_Plot String.vi" Type="VI" URL="/&lt;vilib&gt;/imathl/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Global_Plot String.vi"/>
-			<Item Name="NIMS_plots_Greek_convert symbol.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Greek_convert symbol.vi"/>
-			<Item Name="NIMS_plots_Greek_display letter.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Greek_display letter.vi"/>
-			<Item Name="NIMS_plots_launch MSRT help.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_launch MSRT help.vi"/>
-			<Item Name="NIMS_plots_menu_check all.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_menu_check all.vi"/>
-			<Item Name="NIMS_plots_Plot Manager - Close Plots.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager - Close Plots.vi"/>
-			<Item Name="NIMS_plots_Plot Manager - Dispose.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager - Dispose.vi"/>
-			<Item Name="NIMS_plots_Plot Manager - Get Max Item Number.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager - Get Max Item Number.vi"/>
-			<Item Name="NIMS_plots_Plot Manager - Read Current.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager - Read Current.vi"/>
-			<Item Name="NIMS_plots_Plot Manager - Read.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager - Read.vi"/>
-			<Item Name="NIMS_plots_Plot Manager - Set Cur by Ref.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager - Set Cur by Ref.vi"/>
-			<Item Name="NIMS_plots_Plot Manager - Write.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager - Write.vi"/>
-			<Item Name="NIMS_plots_Plot Manager Actions.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager Actions.ctl"/>
-			<Item Name="NIMS_plots_Plot Manager Item - Dispose Front Panel.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager Item - Dispose Front Panel.vi"/>
-			<Item Name="NIMS_plots_Plot Manager Item - Dispose.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager Item - Dispose.vi"/>
-			<Item Name="NIMS_plots_Plot Manager Item.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager Item.ctl"/>
-			<Item Name="NIMS_plots_Plot Manager.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Plot Manager.vi"/>
-			<Item Name="NIMS_plots_plot window_abort.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_abort.vi"/>
-			<Item Name="NIMS_plots_plot window_deferdraw on.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_deferdraw on.vi"/>
-			<Item Name="NIMS_plots_plot window_deferdraw restore.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_deferdraw restore.vi"/>
-			<Item Name="NIMS_plots_plot window_force run.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_force run.vi"/>
-			<Item Name="NIMS_plots_plot window_open front panel.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_open front panel.vi"/>
-			<Item Name="NIMS_plots_plot window_post.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_post.vi"/>
-			<Item Name="NIMS_plots_plot window_pre.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_pre.vi"/>
-			<Item Name="NIMS_plots_plot window_run.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_run.vi"/>
-			<Item Name="NIMS_plots_plot window_set busy.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_set busy.vi"/>
-			<Item Name="NIMS_plots_plot window_set deferpanupdts.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_set deferpanupdts.vi"/>
-			<Item Name="NIMS_plots_plot window_set title.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_set title.vi"/>
-			<Item Name="NIMS_plots_plot window_unset busy.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_unset busy.vi"/>
-			<Item Name="NIMS_plots_plot window_unset deferpanupdts.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot window_unset deferpanupdts.vi"/>
-			<Item Name="NIMS_plots_plot_attribute conversion.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_attribute conversion.vi"/>
-			<Item Name="NIMS_plots_plot_create annotation.vi" Type="VI" URL="/&lt;vilib&gt;/imathl/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_create annotation.vi"/>
-			<Item Name="NIMS_plots_plot_expand window.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_expand window.vi"/>
-			<Item Name="NIMS_plots_plot_find attribute.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_find attribute.vi"/>
-			<Item Name="NIMS_plots_plot_input string.vi" Type="VI" URL="/&lt;vilib&gt;/imathl/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_input string.vi"/>
-			<Item Name="NIMS_plots_plot_set label.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_set label.vi"/>
-			<Item Name="NIMS_plots_plot_set title.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_set title.vi"/>
-			<Item Name="NIMS_plots_plot_title reposition.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_title reposition.vi"/>
-			<Item Name="NIMS_plots_plot_window.vit" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_plot_window.vit"/>
-			<Item Name="NIMS_plots_Prepare Wait for Plot is ready.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Prepare Wait for Plot is ready.vi"/>
-			<Item Name="NIMS_plots_subplot_cast to GraphChart.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_subplot_cast to GraphChart.vi"/>
-			<Item Name="NIMS_plots_subplot_clear cur graph.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_subplot_clear cur graph.vi"/>
-			<Item Name="NIMS_plots_subplot_copy to clipboard.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_subplot_copy to clipboard.vi"/>
-			<Item Name="NIMS_plots_subplot_get all graph_81.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_subplot_get all graph_81.vi"/>
-			<Item Name="NIMS_plots_subplot_get cur graph_81.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_subplot_get cur graph_81.vi"/>
-			<Item Name="NIMS_plots_subplot_set grid.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_subplot_set grid.vi"/>
-			<Item Name="NIMS_plots_Wait for Plot is ready.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/BuiltInFunctionSupport/plots/NIMS_plots_Wait for Plot is ready.vi"/>
 			<Item Name="NIMS_Range.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/RangeToken/NIMS_Range.vi"/>
 			<Item Name="NIMS_Range_7481B155BEE341ECA0F59DDB444E2C09_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_Range_7481B155BEE341ECA0F59DDB444E2C09.lvgen/NIMS_Range_7481B155BEE341ECA0F59DDB444E2C09_000.vi"/>
 			<Item Name="NIMS_Range_Compute_Iterations.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/RangeToken/NIMS_Range_Compute_Iterations.vi"/>
@@ -522,7 +444,6 @@
 			<Item Name="NIMS_VariantTo2DData_84E25D9D82124B0C8172BC16BCA80104_003.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/NIMS_VariantTo2DData_84E25D9D82124B0C8172BC16BCA80104.lvgen/NIMS_VariantTo2DData_84E25D9D82124B0C8172BC16BCA80104_003.vi"/>
 			<Item Name="NIMS_WorkSpace.lvlib" Type="Library" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/SymbolTable/NIMS_WorkSpace.lvlib"/>
 			<Item Name="NIN3D Coordinate Conversion.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/NIN3D Coordinate Conversion.vi"/>
-			<Item Name="plot object.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_PlotObject/plot object.ctl"/>
 			<Item Name="plot_processed_data.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/plot_processed_data.ctl"/>
 			<Item Name="Processed Data.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/Processed Data.ctl"/>
 			<Item Name="Real Uncertain Min Finder1.vi" Type="VI" URL="../Real Uncertain Min Finder1.vi"/>
@@ -533,7 +454,6 @@
 			<Item Name="RTDownhillSimplexMain.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexMain.vi"/>
 			<Item Name="RunTimeEnginePaths.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/Utility/RunTimeEnginePaths.ctl"/>
 			<Item Name="Translate Error.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Functions/Error Handling/Translate Error.vi"/>
-			<Item Name="TRef FinderCallback.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef FinderCallback.vi"/>
 			<Item Name="UID Generator.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/WorkSpace/UID Generator.vi"/>
 			<Item Name="Untranslate Error.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Functions/Error Handling/Untranslate Error.vi"/>
 			<Item Name="VariableType.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/SymbolTable/VariableType.ctl"/>
