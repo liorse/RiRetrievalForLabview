@@ -41,17 +41,29 @@
 			<Item Name="CalculateAreaOfFirstPeakofSizeDistribution.vi" Type="VI" URL="../CalculateAreaOfFirstPeakofSizeDistribution.vi"/>
 			<Item Name="CalculateExpectedExtinctionIncludingDoublyChargeParticleCorrection.vi" Type="VI" URL="../CalculateExpectedExtinctionIncludingDoublyChargeParticleCorrection.vi"/>
 			<Item Name="CalculateExtinctionCorrectionsToDoublyChargeParticleContribution.vi" Type="VI" URL="../CalculateExtinctionCorrectionsToDoublyChargeParticleContribution.vi"/>
+			<Item Name="CalculateMieAtSpecificRefractiveIndex.vi" Type="VI" URL="../CalculateMieAtSpecificRefractiveIndex.vi"/>
+			<Item Name="calculateuncertainty.vi" Type="VI" URL="../calculateuncertainty.vi"/>
 			<Item Name="calculateuncertaintyVer4.vi" Type="VI" URL="../calculateuncertaintyVer4.vi"/>
+			<Item Name="ChiSquareCalculation.vi" Type="VI" URL="../ChiSquareCalculation.vi"/>
 			<Item Name="FindExtinctionAndSizeParameterFactors.vi" Type="VI" URL="../FindExtinctionAndSizeParameterFactors.vi"/>
 			<Item Name="FindingRealPartWhenImagIsZero.vi" Type="VI" URL="../FindingRealPartWhenImagIsZero.vi"/>
+			<Item Name="FindMinimumChiSquaredFast.vi" Type="VI" URL="../FindMinimumChiSquaredFast.vi"/>
+			<Item Name="FindMinimumChiSquaredLMethod.vi" Type="VI" URL="../FindMinimumChiSquaredLMethod.vi"/>
 			<Item Name="Imaginary Uncertain Min Finder1.vi" Type="VI" URL="../Imaginary Uncertain Min Finder1.vi"/>
 			<Item Name="Imaginary Uncertain Zero Finder.vi" Type="VI" URL="../Imaginary Uncertain Zero Finder.vi"/>
 			<Item Name="PrepareExtinctionCrossSectionToFile.vi" Type="VI" URL="../PrepareExtinctionCrossSectionToFile.vi"/>
 			<Item Name="Real Uncertain Min Finder.vi" Type="VI" URL="../Real Uncertain Min Finder.vi"/>
+			<Item Name="Real Uncertain Min Finder1.vi" Type="VI" URL="../Real Uncertain Min Finder1.vi"/>
+			<Item Name="Real Uncertain Zero Finder.vi" Type="VI" URL="../Real Uncertain Zero Finder.vi"/>
 			<Item Name="RestructureDataAccordingToSelectedSizes.vi" Type="VI" URL="../RestructureDataAccordingToSelectedSizes.vi"/>
 			<Item Name="RIRetrieval.vi" Type="VI" URL="../RIRetrieval.vi"/>
+			<Item Name="RTDownhillSimplexFuncs.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexFuncs.vi"/>
+			<Item Name="RTDownhillSimplexGlobals.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexGlobals.vi"/>
+			<Item Name="RTDownhillSimplexInit.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexInit.vi"/>
+			<Item Name="RTDownhillSimplexMain.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexMain.vi"/>
 			<Item Name="TruncateConcentrationAccordingToMultipleChargeDistribution.vi" Type="VI" URL="../TruncateConcentrationAccordingToMultipleChargeDistribution.vi"/>
 			<Item Name="unConstrainedNonLinearOptimizationForChi2.vi" Type="VI" URL="../unConstrainedNonLinearOptimizationForChi2.vi"/>
+			<Item Name="XY error bars.vi" Type="VI" URL="../XY error bars.vi"/>
 		</Item>
 		<Item Name="Plotting functions" Type="Folder">
 			<Item Name="PlotMieCurve.vi" Type="VI" URL="../PlotMieCurve.vi"/>
@@ -238,9 +250,6 @@
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
 			<Item Name="_LaunchHelp.vi" Type="VI" URL="/&lt;helpdir&gt;/_LaunchHelp.vi"/>
-			<Item Name="CalculateMieAtSpecificRefractiveIndex.vi" Type="VI" URL="../CalculateMieAtSpecificRefractiveIndex.vi"/>
-			<Item Name="calculateuncertainty.vi" Type="VI" URL="../calculateuncertainty.vi"/>
-			<Item Name="ChiSquareCalculation.vi" Type="VI" URL="../ChiSquareCalculation.vi"/>
 			<Item Name="Create Error.vi" Type="VI" URL="/&lt;vilib&gt;/imathl/engines/lvmath/Functions/Error Handling/Create Error.vi"/>
 			<Item Name="cross_product.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/cross_product.vi"/>
 			<Item Name="determine_range_line.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/determine_range_line.vi"/>
@@ -248,8 +257,6 @@
 			<Item Name="Display_StructField_Data.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Plug In/_Struct/display/Display_StructField_Data.vi"/>
 			<Item Name="error.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Functions/Error Handling/error.ctl"/>
 			<Item Name="find_vertex_min_max.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/find_vertex_min_max.vi"/>
-			<Item Name="FindMinimumChiSquaredFast.vi" Type="VI" URL="../FindMinimumChiSquaredFast.vi"/>
-			<Item Name="FindMinimumChiSquaredLMethod.vi" Type="VI" URL="../FindMinimumChiSquaredLMethod.vi"/>
 			<Item Name="GetRunTimeEnginePath.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/Utility/GetRunTimeEnginePath.vi"/>
 			<Item Name="IM_msg.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/common/IM_msg.ctl"/>
 			<Item Name="IM_refnum_cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/common/IM_refnum_cluster.ctl"/>
@@ -446,18 +453,11 @@
 			<Item Name="NIN3D Coordinate Conversion.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/NIN3D Coordinate Conversion.vi"/>
 			<Item Name="plot_processed_data.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/plot_processed_data.ctl"/>
 			<Item Name="Processed Data.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/xcontrol/Processed Data.ctl"/>
-			<Item Name="Real Uncertain Min Finder1.vi" Type="VI" URL="../Real Uncertain Min Finder1.vi"/>
-			<Item Name="Real Uncertain Zero Finder.vi" Type="VI" URL="../Real Uncertain Zero Finder.vi"/>
-			<Item Name="RTDownhillSimplexFuncs.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexFuncs.vi"/>
-			<Item Name="RTDownhillSimplexGlobals.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexGlobals.vi"/>
-			<Item Name="RTDownhillSimplexInit.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexInit.vi"/>
-			<Item Name="RTDownhillSimplexMain.vi" Type="VI" URL="../RTDownhillSimplex.llb/RTDownhillSimplexMain.vi"/>
 			<Item Name="RunTimeEnginePaths.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/Utility/RunTimeEnginePaths.ctl"/>
 			<Item Name="Translate Error.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Functions/Error Handling/Translate Error.vi"/>
 			<Item Name="UID Generator.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/WorkSpace/UID Generator.vi"/>
 			<Item Name="Untranslate Error.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath/Functions/Error Handling/Untranslate Error.vi"/>
 			<Item Name="VariableType.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/SymbolTable/VariableType.ctl"/>
-			<Item Name="XY error bars.vi" Type="VI" URL="../XY error bars.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="RI Retrieval in Labview" Type="EXE">
