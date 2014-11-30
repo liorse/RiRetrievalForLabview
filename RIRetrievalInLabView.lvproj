@@ -361,37 +361,35 @@
 			<Item Name="MC_DisplayManager_Actions.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/DisplayManager/MC_DisplayManager_Actions.ctl"/>
 			<Item Name="MC_DisplayManager.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/DisplayManager/MC_DisplayManager.vi"/>
 			<Item Name="UID Generator.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/WorkSpace/UID Generator.vi"/>
-			<Item Name="MC_GlobalManager_Actions.ctl" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalManager/MC_GlobalManager_Actions.ctl"/>
-			<Item Name="MC_GlobalManager.vi" Type="VI" URL="/&lt;vilib&gt;/imath/engines/lvmath2/RunTimeEngine/Managers/GlobalManager/MC_GlobalManager.vi"/>
 			<Item Name="cross_product.vi" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/cross_product.vi"/>
 			<Item Name="plot_processed_data.ctl" Type="VI" URL="/&lt;vilib&gt;/Native 3D Graph/typedefs/plot_processed_data.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="RI Retrieval in Labview" Type="EXE">
+			<Item Name="RI Retrieval in Labview Debug" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{FDDC9325-C168-4699-8A6A-1E4032DCA1FC}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{72D04192-B4E7-4F16-AE64-50F260A6BDFC}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{CE01CB9D-C99B-4E06-AB81-A2D530310BB6}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">RI Retrieval in Labview</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">RI Retrieval in Labview Debug</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/Z/Dropbox/Lior Segev/Lior Segev Projects/RI retrieval in Labview/builds/NI_AB_PROJECTNAME</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/W/Lior Segev/Lior Segev Projects/RI Retrieval in Labview Debug/builds/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B77AA303-2D17-43BC-8497-38A482EE67A2}</Property>
-				<Property Name="Bld_version.build" Type="Int">36</Property>
+				<Property Name="Bld_version.build" Type="Int">37</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">RI Retrieval in Labview.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/Z/Dropbox/Lior Segev/Lior Segev Projects/RI retrieval in Labview/builds/NI_AB_PROJECTNAME/RI Retrieval in Labview.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">RI Retrieval in Labview Debug.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/W/Lior Segev/Lior Segev Projects/RI Retrieval in Labview Debug/builds/NI_AB_PROJECTNAME/RI Retrieval in Labview Debug.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/Z/Dropbox/Lior Segev/Lior Segev Projects/RI retrieval in Labview/builds/NI_AB_PROJECTNAME/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/W/Lior Segev/Lior Segev Projects/RI Retrieval in Labview Debug/builds/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9A104510-B7D3-4B3E-B0D5-06D210DE3868}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{EEA450D9-9AAB-4F93-95F8-C196E74DCECB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main Program/BAES RI Retrieval with LABVIEW.vi</Property>
@@ -399,12 +397,12 @@
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">weizmann</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">RI Retrieval in Labview</Property>
-				<Property Name="TgtF_internalName" Type="Str">RI Retrieval in Labview</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">RI Retrieval in Labview Debug</Property>
+				<Property Name="TgtF_internalName" Type="Str">RI Retrieval in Labview Debug</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2013 weizmann</Property>
-				<Property Name="TgtF_productName" Type="Str">RI Retrieval in Labview</Property>
+				<Property Name="TgtF_productName" Type="Str">RI Retrieval in Labview Debug</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{29E36A9C-4A7F-4768-B0AC-3063CFBFE8B5}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">RI Retrieval in Labview.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">RI Retrieval in Labview Debug.exe</Property>
 			</Item>
 			<Item Name="RI Retrieval in Labview Installer" Type="Installer">
 				<Property Name="Destination[0].name" Type="Str">RIRetrievalInLab</Property>
@@ -482,7 +480,7 @@
 				<Property Name="Source[0].File[0].tag" Type="Str">{29E36A9C-4A7F-4768-B0AC-3063CFBFE8B5}</Property>
 				<Property Name="Source[0].FileCount" Type="Int">1</Property>
 				<Property Name="Source[0].name" Type="Str">RI Retrieval in Labview</Property>
-				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/RI Retrieval in Labview</Property>
+				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/RI Retrieval in Labview Debug</Property>
 				<Property Name="Source[0].type" Type="Str">EXE</Property>
 				<Property Name="SourceCount" Type="Int">1</Property>
 			</Item>
